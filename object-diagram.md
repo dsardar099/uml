@@ -51,32 +51,9 @@ The following are the application areas where the object diagrams can be used.
 Class vs. Object diagram
 ------------------------
 
-Serial No.
-
-Class Diagram
-
-Object Diagram
-
-1.
-
-It depicts the static view of a system.
-
-It portrays the real-time behavior of a system.
-
-2.
-
-Dynamic changes are not included in the class diagram.
-
-Dynamic changes are captured in the object diagram.
-
-3.
-
-The data values and attributes of an instance are not involved here.
-
-It incorporates data values and attributes of an entity.
-
-4.
-
-The object behavior is manipulated in the class diagram.
-
-Objects are the instances of a class.
+| Serial No. | Class Diagram | Object Diagram |
+|---------|---------|---------|
+| 1 | It depicts the static view of a system. | It portrays the real-time behavior of a system. |
+| 2 | Dynamic changes are not included in the class diagram. | Dynamic changes are captured in the object diagram. |
+| 3 | The data values and attributes of an instance are not involved here. | It incorporates data values and attributes of an entity. |
+| 4 | The object behavior is manipulated in the class diagram. | Objects are the instances of a class. |
