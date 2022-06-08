@@ -31,6 +31,47 @@ Following are some rules that must be followed while drawing a use case diagram:
 3.  Specified notations to be used as and when required.
 4.  The most significant interactions should be represented among the multiple no of interactions between the use case and actors.
 
+Components of a Use Case diagram
+---------------------------------------------
+1. Actors
+   1. External user of a system
+   2. An object or set of object that communicates directly with the system but that 
+is not part of the system. 
+   3. Uml Notation: stick man
+2. Use case
+   1. Piece of functionality
+   2. It interacting with actors
+   3. It involves a sequence of messages among the system and its actors. 
+   4. Umal notation: oval 
+3. Relation
+   1. Association
+      1. Communication between actor and use case. 
+      2. Uml notation: line. 
+   2. Include
+      1. Incorporates one use case within behavior sequence of another use 
+case. 
+      2. Included use case like subroutine. 
+      3. Uml notation: as dashed arrow from source (including) use case to 
+target (included) use case. The keyword <<include>> annotates the 
+arrow. 
+      4. Implies that the included behavior is necessary part. 
+   3. Exclude
+      1. Adds incremental behavior to a use case. 
+      2. Uml notation: as dashed arrow from source (extension) use case to 
+target (base) use case. The keyword <<exclude>> annotates the arrow. 
+      3. Implies that a system without the added behavior would be 
+meaningful. 
+   4. Generalization
+      1. Super – sub relation between use case.
+      2. Parent use case represents a general behavior sequence. 
+      3. Uml notation: an arrow with its tail on the child use case and a 
+triangular arrow head on the parent use case.
+   5. System boundary
+      1. It indicate the scope of system
+      2. Use case under system boundary and actor is listed on the outside
+      3. Uml notation: rectangle box; name of system boundary be written near a side 
+of rectangle.
+
 Example of a Use Case Diagram
 -----------------------------
 
