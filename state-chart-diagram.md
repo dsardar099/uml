@@ -88,26 +88,10 @@ Here the **Serving Customer** is a composite state with sequential substates tha
 State Machine vs. Flowchart
 ---------------------------
 
-State Machine
-
-Flowchart
-
-It portrays several states of a system.
-
-It demonstrates the execution flow of a program.
-
-It encompasses the concept of WAIT, i.e., wait for an event or an action.
-
-It does not constitute the concept of WAIT.
-
-It is for real-world modeling systems.
-
-It envisions the branching sequence of a system.
-
-It is a modeling diagram.
-
-It is a data flow diagram (DFD)
-
-It is concerned with several states of a system.
-
-It focuses on control flow and path.
+| State Machine | Flowchart |
+|--------|--------|
+| It portrays several states of a system. | It demonstrates the execution flow of a program. |
+| It encompasses the concept of WAIT, i.e., wait for an event or an action. | It does not constitute the concept of WAIT. |
+| It is for real-world modeling systems. | It envisions the branching sequence of a system. |
+| It is a modeling diagram. | It is a data flow diagram (DFD) |
+| It is concerned with several states of a system. | It focuses on control flow and path. |
