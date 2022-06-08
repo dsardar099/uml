@@ -71,41 +71,16 @@ Sequence Fragments
 
 Following are the types of fragments enlisted below;
 
-Operator
-
-Fragment Type
-
-alt
-
-Alternative multiple fragments: The only fragment for which the condition is true, will execute.
-
-opt
-
-Optional: If the supplied condition is true, only then the fragments will execute. It is similar to alt with only one trace.
-
-par
-
-Parallel: Parallel executes fragments.
-
-loop
-
-Loop: Fragments are run multiple times, and the basis of interaction is shown by the guard.
-
-region
-
-Critical region: Only one thread can execute a fragment at once.
-
-neg
-
-Negative: A worthless communication is shown by the fragment.
-
-ref
-
-Reference: An interaction portrayed in another diagram. In this, a frame is drawn so as to cover the lifelines involved in the communication. The parameter and return value can be explained.
-
-sd
-
-Sequence Diagram: It is used to surround the whole sequence diagram.
+| Operator | Fragment Type |
+|----------|---------------|
+| alt | Alternative multiple fragments: The only fragment for which the condition is true, will execute. |
+| opt | Optional: If the supplied condition is true, only then the fragments will execute. It is similar to alt with only one trace. |
+| par | Parallel: Parallel executes fragments. |
+| loop | Loop: Fragments are run multiple times, and the basis of interaction is shown by the guard. |
+| region | Critical region: Only one thread can execute a fragment at once. |
+| neg | Negative: A worthless communication is shown by the fragment. |
+| ref | Reference: An interaction portrayed in another diagram. In this, a frame is drawn so as to cover the lifelines involved in the communication. The parameter and return value can be explained. |
+| sd | Sequence Diagram: It is used to surround the whole sequence diagram. |
 
 Example of a Sequence Diagram
 -----------------------------
