@@ -42,7 +42,7 @@ is not part of the system.
    1. Piece of functionality
    2. It interacting with actors
    3. It involves a sequence of messages among the system and its actors. 
-   4. Umal notation: oval 
+   4. Uml notation: oval 
 3. Relation
    1. Association
       1. Communication between actor and use case. 
@@ -66,10 +66,10 @@ meaningful.
       2. Parent use case represents a general behavior sequence. 
       3. Uml notation: an arrow with its tail on the child use case and a 
 triangular arrow head on the parent use case.
-   5. System boundary
-      1. It indicate the scope of system
-      2. Use case under system boundary and actor is listed on the outside
-      3. Uml notation: rectangle box; name of system boundary be written near a side 
+4. System boundary
+   1. It indicate the scope of system
+   2. Use case under system boundary and actor is listed on the outside
+   3. Uml notation: rectangle box; name of system boundary be written near a side 
 of rectangle.
 
 Example of a Use Case Diagram
