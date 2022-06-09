@@ -91,6 +91,22 @@ Any online customer can search for a book catalog, view a description of a parti
 
 ![Sequence Diagram](https://static.javatpoint.com/tutorial/uml/images/uml-sequence-diagram13.png)
 
+A sequence diagram for an emotion based music player
+
+![Sequence Diagram](https://media.geeksforgeeks.org/wp-content/cdn-uploads/seq19.png)
+
+Figure – a sequence diagram for an emotion based music playerThe above sequence diagram depicts the sequence diagram for an emotion based music player:
+
+1. Firstly the application is opened by the user.
+2. The device then gets access to the web cam.
+3. The webcam captures the image of the user.
+4. The device uses algorithms to detect the face and predict the mood.
+5. It then requests database for dictionary of possible moods.
+6. The mood is retrieved from the database.
+7. The mood is displayed to the user.
+8. The music is requested from the database.
+9. The playlist is generated and finally shown to the user.
+
 Benefits of a Sequence Diagram
 ------------------------------
 
