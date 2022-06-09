@@ -76,6 +76,10 @@ A component diagram for an online shopping system is given below:
 
 ![UML Component Diagram](https://static.javatpoint.com/tutorial/uml/images/uml-component-diagram3.png)
 
+A component diagram for an hospital management system is given below:
+
+![UML Component Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOCMKsMVL6b3WVARe7eXgAvi87BA40zzWkw&usqp=CAU)
+
 Where to use Component Diagrams?
 --------------------------------
 
