@@ -58,6 +58,8 @@ Devices like Apple iPod Touch and Apple iPhone can update its own media library 
 
 ![UML Deployment Diagram](https://static.javatpoint.com/tutorial/uml/images/uml-deployment-diagram2.png)
 
+![UML Deployment Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdkGXT1uJGsMtZKOTcEH8IqoizoiiJh21dw&usqp=CAU)
+
 When to use a Deployment Diagram?
 ---------------------------------
 
