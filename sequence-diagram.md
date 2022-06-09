@@ -39,6 +39,8 @@ Following are types of messages enlisted below:
 
 *   **Call Message:** It defines a particular communication between the lifelines of an interaction, which represents that the target lifeline has invoked an operation.  
     ![Sequence Diagram](https://static.javatpoint.com/tutorial/uml/images/uml-sequence-diagram4.png)
+*   **Synchronous messages:** A synchronous message waits for a reply before the interaction can move forward. The sender waits until the receiver has completed the processing of the message. The caller continues only when it knows that the receiver has processed the previous message i.e. it receives a reply message. A large number of calls in object oriented programming are synchronous. We use a **solid arrow head** to represent a synchronous message.
+*   **Asynchronous Messages:** An asynchronous message does not wait for a reply from the receiver. The interaction moves forward irrespective of the receiver processing the previous message or not. We use a **lined arrow head** to represent an asynchronous message.
 *   **Return Message:** It defines a particular communication between the lifelines of interaction that represent the flow of information from the receiver of the corresponding caller message.  
     ![Sequence Diagram](https://static.javatpoint.com/tutorial/uml/images/uml-sequence-diagram5.png)
 *   **Self Message:** It describes a communication, particularly between the lifelines of an interaction that represents a message of the same lifeline, has been invoked.  
